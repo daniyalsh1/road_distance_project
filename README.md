@@ -4,6 +4,13 @@ Overview
 
 This project provides a Python-based solution to calculate distances between cities using various geolocation APIs. It is designed to integrate with Django and includes models for storing city and province data.
 
+Road Distance Calculator is a free and open-source tool for calculating distances between cities using multiple geolocation APIs (such as OpenCage and OpenRouteService). This project is optimized for use in Iran and offers high accuracy compared to other free services.
+
+Key Features:
+  ✅ High accuracy compared to other free alternatives
+  ✅ Fully functional in Iran
+  ✅ Easy integration with Django projects
+
 Features:
 
   Retrieve distance between two cities
